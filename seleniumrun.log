@@ -1,0 +1,17 @@
+2024-04-20 9:35:32 INFO Browser started successfully. Navigating to the demo page to login.
+2024-04-20 9:35:37 INFO logged as standard_user
+2024-04-20 9:35:39 INFO Sauce Labs Backpack has been added to the cart.
+2024-04-20 9:35:39 INFO Sauce Labs Bike Light has been added to the cart.
+2024-04-20 9:35:39 INFO Sauce Labs Bolt T-Shirt has been added to the cart.
+2024-04-20 9:35:39 INFO Sauce Labs Fleece Jacket has been added to the cart.
+2024-04-20 9:35:40 INFO Sauce Labs Onesie has been added to the cart.
+2024-04-20 9:35:40 INFO Test.allTheThings() T-Shirt (Red) has been added to the cart.
+2024-04-20 9:35:41 INFO There are 6 items in the shopping cart.
+2024-04-20 9:35:41 INFO Sauce Labs Backpack has been removed from to the cart.
+2024-04-20 9:35:41 INFO Sauce Labs Bike Light has been removed from to the cart.
+2024-04-20 9:35:41 INFO Sauce Labs Bolt T-Shirt has been removed from to the cart.
+2024-04-20 9:35:42 INFO Sauce Labs Fleece Jacket has been removed from to the cart.
+2024-04-20 9:35:42 INFO Sauce Labs Onesie has been removed from to the cart.
+2024-04-20 9:35:42 INFO Test.allTheThings() T-Shirt (Red) has been removed from to the cart.
+2024-04-20 9:35:43 INFO Shopping cart is currently empty
+2024-04-20 9:35:44 INFO The Sauce Demo website has been closed!
